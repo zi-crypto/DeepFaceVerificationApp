@@ -7,6 +7,7 @@ This repository contains the code and resources for a **Deep Facial Verification
 ## Achievements
 
 - **1st Place in Academic Projects:** This project was submitted as part of an academic course and was awarded 1st place among the best projects.
+- You can see our Submission Here: https://drive.google.com/drive/folders/1mMOt5V0qF6Gr5YFqf2cjMQvmd9Vicjbp
 
 ## Features
 
