@@ -27,7 +27,7 @@ This repository contains the code and resources for a **Deep Facial Verification
 ### Prerequisites
 
 - Python 3.8+
-- TensorFlow or PyTorch
+- TensorFlow
 - OpenCV
 - NumPy
 
